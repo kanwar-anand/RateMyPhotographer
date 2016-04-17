@@ -844,6 +844,7 @@ p.top_desc {
 }
 .right-msg span {
 	background: url(../images/logo_small.png) no-repeat 0px 5px;
+	vertical-align: middle;
 }
 .contact-form input[type="text"] {
 	width: 25%;
@@ -930,6 +931,7 @@ h3.m_3, h3.m_4, .contact_left h3{
 .right-msg span {
 	background: url(../images/logo_small.png) no-repeat 0px 5px;
 	background-size: 70%;
+	vertical-align: middle;
 }
 .slider-left h1 {
 	font-size: 0.85em;
